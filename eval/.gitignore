@@ -1,0 +1,25 @@
+# Environment variables
+.env
+.env.*
+
+# Claude Code session data
+.claude/
+
+# Large data files (video outputs, etc.)
+videos/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
