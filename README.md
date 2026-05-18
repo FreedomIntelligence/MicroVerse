@@ -5,7 +5,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2603.00585-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.00585)
 [![hf_paper](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)](https://huggingface.co/papers/2603.00585)
 [![benchmark](https://img.shields.io/badge/📊-MicroWorldBench-red.svg)](eval/)
-[![dataset](https://img.shields.io/badge/📦-Dataset-red.svg)]([eval/](https://huggingface.co/datasets/wangrongsheng/MicroVerse))
+[![dataset](https://img.shields.io/badge/📦-Dataset-red.svg)](https://huggingface.co/datasets/wangrongsheng/MicroVerse)
 
 **MicroVerse** is the first AI framework designed to simulate microscopic biological processes at organ, cellular, and subcellular levels. Unlike existing video generation models that mostly mimic visual textures, MicroVerse integrates physical and biological constraints to faithfully reproduce the **mechanisms of life**. Leveraging the **MicroSim-10K dataset** and evaluated against **MicroWorldBench**, it sets a new benchmark for microscale AI simulations, enabling applications in biomedical research, education, and interactive visualization.
 
