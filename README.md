@@ -5,6 +5,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2603.00585-b31b1b.svg?logo=arxiv)](https://arxiv.org/abs/2603.00585)
 [![hf_paper](https://img.shields.io/badge/🤗-Paper%20In%20HF-red.svg)](https://huggingface.co/papers/2603.00585)
 [![benchmark](https://img.shields.io/badge/📊-MicroWorldBench-red.svg)](eval/)
+[![dataset](https://img.shields.io/badge/📦-Dataset-red.svg)]([eval/](https://huggingface.co/datasets/wangrongsheng/MicroVerse))
 
 **MicroVerse** is the first AI framework designed to simulate microscopic biological processes at organ, cellular, and subcellular levels. Unlike existing video generation models that mostly mimic visual textures, MicroVerse integrates physical and biological constraints to faithfully reproduce the **mechanisms of life**. Leveraging the **MicroSim-10K dataset** and evaluated against **MicroWorldBench**, it sets a new benchmark for microscale AI simulations, enabling applications in biomedical research, education, and interactive visualization.
 
@@ -20,6 +21,7 @@ This work represents a leap from “macro-scale visual imitation” to **mechani
 
 ## 📣 Latest News!!
 
+* `[2026.05.18]` 🎉 [Dataset (9.6k Samples)](https://huggingface.co/datasets/wangrongsheng/MicroVerse) released.
 * `[2026.04.01]` 🎉 [MicroWorldBench](eval/) evaluation and [MicroVerse](train/) training code released.
 * `[2026.03.03]` 🚀 [Paper](https://arxiv.org/abs/2603.00585) released.
 * `[2026.01.26]` 🎉 MicroVerse has been officially accepted as a **Poster at ICLR 2026**.
